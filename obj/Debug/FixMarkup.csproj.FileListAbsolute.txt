@@ -1,0 +1,11 @@
+D:\Dev\FixMarkup\FixMarkup\bin\Debug\FixMarkup.exe.config
+D:\Dev\FixMarkup\FixMarkup\bin\Debug\FixMarkup.exe
+D:\Dev\FixMarkup\FixMarkup\bin\Debug\FixMarkup.pdb
+D:\Dev\FixMarkup\FixMarkup\bin\Debug\Dapper.dll
+D:\Dev\FixMarkup\FixMarkup\bin\Debug\Dapper.xml
+D:\Dev\FixMarkup\FixMarkup\obj\Debug\FixMarkup.Form1.resources
+D:\Dev\FixMarkup\FixMarkup\obj\Debug\FixMarkup.Properties.Resources.resources
+D:\Dev\FixMarkup\FixMarkup\obj\Debug\FixMarkup.csproj.GenerateResource.Cache
+D:\Dev\FixMarkup\FixMarkup\obj\Debug\FixMarkup.exe
+D:\Dev\FixMarkup\FixMarkup\obj\Debug\FixMarkup.pdb
+D:\Dev\FixMarkup\FixMarkup\obj\Debug\FixMarkup.csprojResolveAssemblyReference.cache
